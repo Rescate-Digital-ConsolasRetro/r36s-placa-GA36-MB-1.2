@@ -15,7 +15,7 @@ Esta imagen base soluciona el arranque y habilita la estructura de particiones p
 ## Descarga e integridad del archivo
 * **Archivo:** `r36s_ga36-mb_v1.2_clean-os_win-folders.zip`
 * **Enlace principal Google Drive:** [GOOLE DRIVE](https://drive.google.com/file/d/1_lfee0QpIPI32berFxX7IeWC7Y_m_nht/view?usp=drivesdk)
-[Rescate Digital](https://drive.google.com/file/d/1_lfee0QpIPI32berFxX7IeWC7Y_m_nht/view?usp=drivesdk)
+
 ## Requisitos e instalación paso a paso
 1. **Descarga** el archivo `.zip` desde el enlace superior y descomprímelo en tu PC con 7-Zip o WinRAR para obtener el archivo `.img`.
 2. **Prepara tu tarjeta MicroSD** (se recomienda una memoria de buena calidad de 16 GB o superior). *Nota: este proceso borrará todo el contenido previo de la tarjeta.*
