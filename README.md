@@ -1,4 +1,4 @@
-# Sistema Base Limpio — R36S (Placa GA36-MB V1.2)
+# Sistema Base Limpio — R36S (Placa GA36-MB V1.2) carpetas visibles
 
 Imagen de sistema operativo restaurada y optimizada para consolas **R36S con placa modelo GA36-MB V1.2 (20260416)** y variantes compatibles.
 
